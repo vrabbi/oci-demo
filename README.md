@@ -6,5 +6,7 @@ to run the demo you will need the following tools:
 
 # Run the script
 ```bash
+chmod +x demo.sh
+chmod +x demo-magic.sh
 ./demo.sh
 ```
